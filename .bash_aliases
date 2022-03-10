@@ -6,6 +6,7 @@ alias nrb='npm run build'
 alias nrs='npm run start'
 
 # Git ############################
+alias gaa='git add .'
 alias gcm='git commit -m'
 alias gg='git status'
 alias gb='git branch'
