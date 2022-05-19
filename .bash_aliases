@@ -15,6 +15,7 @@ alias gcom='git checkout main'
 alias gps='git push'
 alias gpom='git push origin main'
 alias gm-='git merge -'
+alias uu='gaa && gcm "Updates" && gps'
 
 # motd
 cat << EOM
